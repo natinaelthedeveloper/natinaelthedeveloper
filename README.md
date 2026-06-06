@@ -1,5 +1,4 @@
 ## Hi, I'm Natinael👋
-# 💫 About Me:
 I build responsive, high-performance web applications from scratch. From designing smooth user interfaces to architecting solid databases, I focus on turning complex technical problems into seamless digital experiences.
 
 
